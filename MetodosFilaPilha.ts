@@ -1,5 +1,5 @@
 //Nessa classe ficaram os Métodos e atributos utilizados nas classes Pilha e Fila
-export  class  MetodosFilaPilha{
+export abstract class  MetodosFilaPilha{
     public _valores:string[]
     public _tamanho:number
 
